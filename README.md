@@ -1,6 +1,6 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pdusarux&layout=compact)
-![](https://leetcard.jacoblin.cool/pdusarux?theme=unicorn)
+![LeetCode Stats](https://leetcard.jacoblin.cool/pdusarux?theme=wtf&font=Abel&ext=activity)
 
 ## Tech I'm passionate about
 [![My Skills](https://skillicons.dev/icons?i=html,css,js,react,ts,flutter,dart,nodejs,nestjs,go,js,ts,py,dart,go,mongodb,mysql,postgresql,docker,git,notion,vscode,stackoverflow,apple)](https://skillicons.dev)
