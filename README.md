@@ -1,9 +1,9 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pdusarux&layout=compact)
-![LeetCode Stats](https://leetcard.jacoblin.cool/pdusarux?theme=wtf&font=Abel&ext=activity)
+![LeetCode Stats](https://leetcard.jacoblin.cool/pdusarux?theme=wtf&font=Ubuntu)
 
 ## Tech I'm passionate about
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,react,ts,flutter,dart,nodejs,nestjs,go,js,ts,py,dart,go,mongodb,mysql,postgresql,docker,git,notion,vscode,stackoverflow,apple)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,react,ts,flutter,dart,nodejs,go,js,ts,py,dart,go,mongodb,mysql,postgresql,docker,git,notion,vscode,stackoverflow,apple)](https://skillicons.dev)
 
 <div align="justify">
   <a href="mailto:p.dusarux@gmail.com">
