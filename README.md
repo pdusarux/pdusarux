@@ -3,7 +3,7 @@
 ![LeetCode Stats](https://leetcard.jacoblin.cool/pdusarux?theme=wtf&font=Ubuntu)
 
 ## Tech I'm passionate about
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,react,ts,flutter,dart,nodejs,go,js,ts,py,dart,go,mongodb,mysql,postgresql,docker,git,notion,vscode,stackoverflow,apple)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,react,nodejs,go,py,mongodb,mysql,postgresql,docker,git,notion,vscode,stackoverflow,apple)](https://skillicons.dev)
 
 <div align="justify">
   <a href="mailto:p.dusarux@gmail.com">
